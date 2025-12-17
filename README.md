@@ -39,6 +39,7 @@ Dashboard built using essential visuals for clarity:
 Purchase Rate,Total Budget, Avg Budget.
 
 **Slicers**
+
 **.** Select Dynamic Measure
 
 **.** Campaign Name

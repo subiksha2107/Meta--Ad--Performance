@@ -21,32 +21,31 @@ measure ROI (Return on Investment) through KPIs.
 
 Dashboard built using essential visuals for clarity:
 
-Target Age Group (Bar Chart)
+> Target Age Group (Bar Chart)
 
-Target Gender (Donut Chart)
+> Target Gender (Donut Chart)
 
-Country (Map)
+> Country (Map)
 
-Calender Month (Calendar Heat Map)
+> Calender Month (Calendar Heat Map)
 
-Weekly Trend (Stacked Column by Ad Type)
+> Weekly Trend (Stacked Column by Ad Type)
 
-Hourly Trend (Area Chart)
+> Hourly Trend (Area Chart)
 
-Ad Type (Metrix)
+> Ad Type (Metrix)
 
 **KPI Cards:** Impressions, Cliks, Shares, Comments, Engagement,CTR,ER,Coversion Rate
 Purchase Rate,Total Budget, Avg Budget.
 
 **Slicers**
+**.** Select Dynamic Measure
 
-Select Dynamic Measure
+**.** Campaign Name
 
-Campaign Name
+**.** Targete Interest
 
-Targete Interest
-**
-🛠 Tools & Skills**
+**🛠 Tools & Skills**
 
 PowerBI
 

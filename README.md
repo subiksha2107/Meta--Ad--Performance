@@ -1,9 +1,11 @@
 # Meta-Ad-Performance
 **Project Overview** 
+
 This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns 
 across key KPIs such as impressions, clicks, engagements, conversions, and budget. It 
 provides a complete funnel view—from awareness to engagement to purchases—along with 
 demographic, geographic, and time-based insights.
+
 Data Collection
 
 The dataset was downloaded from a publicly available source.
@@ -12,7 +14,9 @@ demographics, and ad interaction events. It is modelled after how Facebook/Insta
 (Meta) ad platforms capture data. 
 The purpose of this dataset is to analyse advertising performance, optimize targeting, and 
 measure ROI (Return on Investment) through KPIs.
+
 📊 Power BI Dashboard
+
 Dashboard built using essential visuals for clarity:
 
 Target Age Group (Bar Chart)
@@ -24,11 +28,15 @@ Hourly Trend (Area Chart)
 Ad Type (Metrix)
 KPI Cards: Impressions, Cliks, Shares, Comments, Engagement,CTR,ER,Coversion Rate
 Purchase Rate,Total Budget, Avg Budget.
+
 Slicers
+
 Select Dynamic Measure
 Campaign Name
 Targete Interest
+
 🛠 Tools & Skills
+
 PowerBI
 Data Cleaning & transformation
 Data Modeling
@@ -36,8 +44,8 @@ DAX Measures
 KPI Development
 Interactive slicers & Filters
 Data Visualization & Dashboard Design
-KPI development
- 🎯 Dashboard Insights & Recommendations 
+
+🎯 Dashboard Insights & Recommendations 
 
 1. Strong awareness & engagement, but low purchase efficiency → optimize landing 
 pages, retargeting, and offers. 
